@@ -1,0 +1,22 @@
+
+name: 'Frameworks',
+  key: 's2',
+  children: [
+    {
+      name: 'JavaScript',
+      key: 's2_c1',
+      children: [
+        { name: 'Vue.js', key: 's2_c1_c1' },
+        { name: 'React.js', key: 's2_c1_c2' },
+        { name: 'Angular.js', key: 's2_c1_c3' }
+      ]
+    },
+    {
+      name: 'CSS',
+      key: 's2_c2',
+      children: [
+        { name: 'Foundation', key: 's2_c2_c1' },
+        { name: 'Bootstrap', key: 's2_c2_c2' }
+      ]
+    }
+  ]
