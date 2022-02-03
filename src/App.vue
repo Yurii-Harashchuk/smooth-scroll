@@ -2,7 +2,6 @@
 
 <!--  <nav class="navigation" id="mainNav">-->
 <!--    <a class="navigation__link" href="#1">Section 1</a>-->
-<!--    <a class="navigation__link" href="#2">Section 2</a>-->
 <!--  </nav>-->
 
   <nav class="navigation" id="mainNav">
