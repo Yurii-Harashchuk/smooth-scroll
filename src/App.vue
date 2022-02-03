@@ -9,7 +9,7 @@
     <div class="item" v-for="(tree, index ) in trees"
          :key="index">
 <!--         @click="selectItem(index)"-->
-<!--         :class="{ active: index === selectedItem }"-->
+<!--         :class="{ active: index === selectedItkikem }"-->
 
       <div class="item-title border-bottom">
         {{ tree.title }}
